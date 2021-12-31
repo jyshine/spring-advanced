@@ -1,0 +1,14 @@
+db.createUser({user:'adminroot',pwd:'TheCommerce3#', roles:[{"role" : root","db" : "admin"}]})
+db.createUser({user:'ASIASSMLVCPN67F4HEGK',pwd:'Rq6CWBWcZYy/FAj+z9EUoxhJeGSY1/kNmFXzlneE', roles:[{"role" : "userAdminAnyDatabase","db" : "admin"},{"role" : "readWriteAnyDatabase","db" : "admin"}]})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+db.createUser({user:'',pwd:'TheCommerce3#', roles:})
+
+
+
+[{"role" : root","db" : "admin"}]
+
